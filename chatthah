@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Husnain Muhammad | IT Support Specialist</title>
+  <style>
+    body { font-family: Arial, sans-serif; background: #f7f7f7; color: #333; margin: 0; padding: 0; }
+    header, section { padding: 40px; max-width: 900px; margin: auto; }
+    header { background: #1e90ff; color: white; }
+    img { border-radius: 100px; width: 150px; margin-top: 10px; }
+    h1, h2 { margin-bottom: 10px; }
+    .section-title { border-bottom: 2px solid #1e90ff; margin-bottom: 20px; padding-bottom: 5px; }
+    ul { line-height: 1.6; }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Husnain Muhammad</h1>
+  <p>IT Support Specialist | Busto Arsizio, Italy</p>
+  <p>Email: <a href="mailto:husnainchattha067@gmail.com" style="color:white;">husnainchattha067@gmail.com</a> | Phone: +39 351 826 4861</p>
+  <img src="your-photo.jpg" alt="Husnain Muhammad">
+</header>
+
+<section>
+  <h2 class="section-title">Professional Summary</h2>
+  <p>Experienced IT Support Specialist with hands-on expertise in managing and troubleshooting systems, networks, and end-user environments. Skilled in VMware, Hyper-V, Active Directory, DNS, DHCP, Backup Systems, and remote desktop support.</p>
+</section>
+
+<section>
+  <h2 class="section-title">Work Experience</h2>
+  <h3>Microramo – Busto Arsizio, Italy (02/2024 – 02/2025)</h3>
+  <ul>
+    <li>Provided first-level support in VMware, Hyper-V, Backup, and Replication.</li>
+    <li>Managed Active Directory, MS Exchange, DNS, DHCP, Antivirus & Backup servers.</li>
+    <li>Provided VIP and remote desktop support in high-call volume environments.</li>
+    <li>Imaged, deployed, and troubleshooted desktops/laptops and various devices.</li>
+  </ul>
+
+  <h3>ELMEC – Varese, Italy (08/2023 – 01/2024)</h3>
+  <ul>
+    <li>Resolved technical issues for desktops, laptops, networks, and servers.</li>
+    <li>Supported VIP clients, printers, scanners, and mobile device configurations.</li>
+    <li>Created technical documentation and implemented patch management.</li>
+  </ul>
+</section>
+
+<section>
+  <h2 class="section-title">Education</h2>
+  <p>Bachelor in Information Technology (2022–Present)<br>Virtual University, Islamabad, Pakistan</p>
+</section>
+
+<section>
+  <h2 class="section-title">Skills</h2>
+  <h4>Technical Skills</h4>
+  <ul>
+    <li>VMWare, HyperV, Active Directory, Windows Server, MS Exchange</li>
+    <li>Python (PyROOT, TensorFlow), Java, C, C++, HTML, SQL</li>
+    <li>System & Network Administration, I.T. Troubleshooting</li>
+    <li>Microsoft Office Suite, SPSS, DHCP, DNS, TCP/IP</li>
+  </ul>
+  <h4>Languages</h4>
+  <p>Urdu (Native), English (B2), Italian (B2)</p>
+</section>
+
+<section>
+  <h2 class="section-title">Contact</h2>
+  <p>Email: husnainchattha067@gmail.com</p>
+  <p>GitHub / LinkedIn: (add your links here)</p>
+</section>
+
+</body>
+</html>
